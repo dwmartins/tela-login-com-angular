@@ -71,7 +71,7 @@
 
 .form {
   max-width: 400px;
-  background-color: #ebebebcc;
+  background-color: #ebebebe7;
 }
 
 h2 {
@@ -79,8 +79,9 @@ h2 {
 }
 
 .icon-senha,.icon-email {
-  top: 4px;
+  top: 50%;
   right: 10px;
+  transform: translate(0, -50%);
   font-size: 25px;
   color: #807d7d;
 }
