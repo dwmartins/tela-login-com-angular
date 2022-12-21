@@ -69,8 +69,8 @@
   height: 400px;
 }
 
-.form {
-  max-width: 400px;
+form {
+  max-width: 480px;
   background-color: #ebebebe7;
 }
 
