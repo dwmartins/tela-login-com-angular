@@ -30,11 +30,7 @@ formulario: any;
   }
 
   public submitForm(form: NgForm) {
-    if(form.valid) {
-      console.log('campo ok');
-    }else {
-      console.log('campo vazio');
-    }
+    alert("Logado com sucesso!")
   }
 
 }

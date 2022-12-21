@@ -27,6 +27,7 @@
                     name="email" 
                     ngModel
                     placeholder="Seu e-mail"
+                    required
                     class="p-2 w-100 rounded border-0 form-control">
 
             <i class="bi bi-person position-absolute icon-email"></i>
@@ -37,11 +38,12 @@
                     name="senha"
                     ngModel
                     placeholder="Sua senha" 
+                    required
                     class="p-2 w-100 rounded border-0 form-control">
             <i (click)="iconEye()" [class.bi-eye]="!aberto" [class.bi-eye-slash]="aberto" class="bi position-absolute icon-senha"></i>
         </div>
 
-        <button class="btn btn-primary fw-semibold">Entrar</button>
+        <button class="btn btn-primary fw-semibold" [disabled]="form.invalid">Entrar</button>
 
         <hr>
 
