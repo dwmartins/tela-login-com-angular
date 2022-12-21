@@ -84,4 +84,5 @@ h2 {
   transform: translate(0, -50%);
   font-size: 25px;
   color: #807d7d;
+  cursor: pointer;
 }

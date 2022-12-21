@@ -9,7 +9,7 @@ Para vizualizar o projeto rode `ng serve `no terminal dentro da raiz do projeto,
 ## Pré vizualização: 
 
 <div>
-    <img src="./src/assets/gifs/login.gif" width="100%" border-radios="20px" style="border-radius: 10px">
+    <img src="./src/assets/gifs/login.gif" width="90%" border-radios="20px" style="border-radius: 10px">
 </div>
 
 <hr>
