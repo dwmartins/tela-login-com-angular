@@ -1,17 +1,24 @@
 # Tela Login
 
-Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 15.0.3.
+### Link do projeto :point_down:
+https://tela-login-com-angular.vercel.app/
 
-## Servidor de desenvolvimento
-
-Para vizualizar o projeto rode `ng serve `no terminal dentro da raiz do projeto, e no navegador entre em `http://localhost:4200/`.
+<hr>
 
 ## Pré vizualização: 
 
+### página de login:
+<br>
 <div>
     <img src="./src/assets/gifs/login.gif" width="90%" border-radios="20px" style="border-radius: 10px">
 </div>
+<br>
 
+### Página de cadastro:
+<br>
+<div>
+    <img src="./src/assets/gifs/cadastro.gif" width="90%" border-radios="20px" style="border-radius: 10px">
+</div>
 <hr>
 
 ## Projeto em constante desenvolvimento... :hourglass:
